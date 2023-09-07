@@ -89,7 +89,7 @@ a:focus {
 
 .header_section .header_top {
   padding: 15px 0;
-  background-color: #000000;
+  background-color: #2D4BDD;
 }
 
 .header_section .header_top .contact_nav {
@@ -106,7 +106,7 @@ a:focus {
 }
 
 .header_section .header_top .contact_nav a i {
-  color: #FFD60A;
+  color: #2D4BDD;
 }
 
 .header_section .header_bottom {
@@ -275,7 +275,7 @@ a:focus {
 }
 
 .quote_btn-container a:hover {
-  color: #FFD60A;
+  color: #2D4BDD;
 }
 
 /*end header section*/
@@ -325,8 +325,8 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #FFD60A;
-  border: 1px solid #FFD60A;
+  background-color: #2D4BDD;
+  border: 1px solid #2D4BDD;
   border-radius: 5px;
   color: #ffffff;
   margin-top: 15px;
@@ -334,7 +334,7 @@ a:focus {
 
 .slider_section .detail-box a:hover {
   background-color: transparent;
-  color: #FFD60A;
+  color: #2D4BDD;
 }
 
 .slider_section .img-box img {
@@ -403,7 +403,7 @@ a:focus {
 }
 
 .feature_section .feature_container .box:hover, .feature_section .feature_container .box.active {
-  background-color: #FFD60A;
+  background-color: #2D4BDD;
   color: #ffffff;
 }
 
@@ -481,15 +481,15 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #FFD60A;
-  border: 1px solid #FFD60A;
+  background-color: #2D4BDD;
+  border: 1px solid #2D4BDD;
   border-radius: 2px;
   color: #ffffff;
 }
 
 .professional_section .detail-box a:hover {
   background-color: transparent;
-  color: #FFD60A;
+  color: #2D4BDD;
 }
 
 .service_section {
@@ -550,7 +550,7 @@ a:focus {
 }
 
 .service_section .box:hover {
-  background-color: #FFD60A;
+  background-color: #2D4BDD;
   color: #ffffff;
 }
 
@@ -728,7 +728,7 @@ a:focus {
 
 .info_section {
   padding: 75px 0;
-  background-color: #0a0f43;
+  background-color: #2D4BDD;
   text-align: center;
   color: #fff;
 }
@@ -768,7 +768,7 @@ a:focus {
 }
 
 .info_section a:hover {
-  color: #FFD60A;
+  color: #2D4BDD;
 }
 
 .info_items a {
@@ -810,11 +810,11 @@ a:focus {
   margin-top: 25px;
   color: #fff;
   margin-bottom: 0;
-  background-color: #0a0f43;
+  /* background-color: #0a0f43; */
 }
 
 .info_items .item:hover .img-box {
-  background-color: #FFD60A;
+  background-color: #2D4BDD;
 }
 
 .info_items {
@@ -835,7 +835,7 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #0a0f43;
+  background-color: #2D4BDD;
 }
 
 .footer_section p {
