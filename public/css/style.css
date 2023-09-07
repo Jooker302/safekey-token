@@ -2,6 +2,7 @@
 body {
   font-family: 'Lato', sans-serif;
   color: #040000;
+  background-color: #d1e3ff;
 }
 
 .layout_padding {
@@ -123,7 +124,7 @@ a:focus {
 }
 
 .navbar-brand span {
-  color: #0355cc;
+  color: #2D4BDD;
   text-transform: uppercase;
 }
 
@@ -142,7 +143,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #0355cc;
+  color: #2D4BDD;
 }
 
 .custom_nav-container .form-inline .nav_search-btn {
@@ -154,7 +155,7 @@ a:focus {
 }
 
 .custom_nav-container .form-inline .nav_search-btn:hover {
-  color: #0355cc;
+  color: #2D4BDD;
 }
 
 .equal-height {
@@ -312,7 +313,7 @@ a:focus {
 .slider_section .detail-box h1 {
   font-weight: bold;
   margin-bottom: 25px;
-  color: #0355cc;
+  color: #2D4BDD;
 }
 
 .slider_section .detail-box p {
@@ -436,15 +437,15 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #0355cc;
-  border: 1px solid #0355cc;
+  background-color: #2D4BDD;
+  border: 1px solid #2D4BDD;
   border-radius: 2px;
   color: #ffffff;
 }
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #0355cc;
+  color: #2D4BDD;
 }
 
 .about_section .img-box img {
@@ -468,7 +469,7 @@ a:focus {
 .professional_section .detail-box h2 {
   text-transform: uppercase;
   font-weight: bold;
-  color: #0355cc;
+  color: #2D4BDD;
 }
 
 .professional_section .detail-box p {
@@ -574,15 +575,15 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #0355cc;
-  border: 1px solid #0355cc;
+  background-color: #2D4BDD;
+  border: 1px solid #2D4BDD;
   border-radius: 0;
   color: #ffffff;
 }
 
 .service_section .btn-box a:hover {
   background-color: transparent;
-  color: #0355cc;
+  color: #2D4BDD;
 }
 
 .client_section .heading_container {
@@ -657,10 +658,11 @@ a:focus {
 .client_section .owl-carousel .owl-nav button {
   width: 50px;
   height: 50px;
-  background-color: #0355cc;
+  background-color: #2D4BDD;
   outline: none;
   margin: 0 20px;
   color: #ffffff;
+  border-radius: 50%; 
 }
 
 .heading_container {
@@ -706,8 +708,8 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 55px;
-  background-color: #0355cc;
-  border: 1px solid #0355cc;
+  background-color: #2D4BDD;
+  border: 1px solid #2D4BDD;
   border-radius: 0;
   color: #ffffff;
   margin-top: 15px;
@@ -715,7 +717,7 @@ a:focus {
 
 .contact_section button:hover {
   background-color: transparent;
-  color: #0355cc;
+  color: #2D4BDD;
 }
 
 .contact_section .map_container {
@@ -760,7 +762,7 @@ a:focus {
 
 .info_section a {
   margin: 0 5px;
-  color: #0355cc;
+  color: #2D4BDD;
 }
 
 .info_section a i {
@@ -798,7 +800,7 @@ a:focus {
   background-position: center;
   text-align: center;
   line-height: 80px;
-  background-color: #0355cc;
+  background-color: #2D4BDD;
   color: #ffffff;
 }
 
